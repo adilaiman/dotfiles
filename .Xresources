@@ -1,6 +1,6 @@
 URxvt.font: xft:Ubuntu Mono:size=13
 URxvt.scrollBar: false
-URxvt.geometry: 94x35
+URxvt.geometry: 94x38
 
 ! clickable url
 URxvt.perl-ext-common: default,matcher
